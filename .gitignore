@@ -1,0 +1,5 @@
+packer-git-*.pkg.tar.xz
+packer-git/
+pkg/
+src/
+
