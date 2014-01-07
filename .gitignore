@@ -1,5 +1,5 @@
-packer-git-*.pkg.tar.xz
-packer-git/
-pkg/
-src/
-
+*
+!.gitignore
+!packer
+!packer.8
+!PKGBUILD

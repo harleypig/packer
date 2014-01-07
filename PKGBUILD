@@ -1,7 +1,7 @@
 # Maintainer: Alan Young <harleypig@harleypig.com>
 
 pkgname=packer-git
-pkgver=238.809dc71
+pkgver=239.77be118
 pkgrel=1
 pkgdesc='Bash wrapper for pacman and aur'
 url="https://github.com/harleypig/packer"
